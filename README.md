@@ -1,7 +1,7 @@
 # FEWD Final Project - "Sweep" Project Tracker
 
 ## Short Description
-Sweep is a project tracker that allows to visually track and filter multiple projects following the same workflow on one screen.
+Sweep is a project tracker that allows to visually track and filter multiple projects on one screen.
 
 ## Technologies
 - [Semantic UI - Nested Accordions](http://semantic-ui.com/modules/accordion.html#/examples)
