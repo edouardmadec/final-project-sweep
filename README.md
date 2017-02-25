@@ -8,6 +8,10 @@ Sweep is a project tracker that allows to visually track and filter multiple pro
 - [jQuery](http://api.jquery.com/)
 - [ToDoMVC](http://todomvc.com/)
 - [Bootstrap Tags](https://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/)
+- [Fuse.js](http://fusejs.io/)
+- [Visual Timeline](https://codyhouse.co/gem/vertical-timeline/)
+- [Firebase](https://firebase.google.com/)
+- [Isotope](http://isotope.metafizzy.co/)
 
 ## Roadmap
 
